@@ -14,3 +14,5 @@ The Meme Generator is an interactive web app built with React that allows users 
 - **React**: For building the user interface.
 - **JavaScript**: For handling logic and user interactions.
 - **HTML/CSS**: For the app layout and styling.
+
+![Screenshot 2024-11-05 at 2 04 25 PM](https://github.com/user-attachments/assets/40b932b1-bafd-46b7-9f1e-6ca4ba3ecf92)
